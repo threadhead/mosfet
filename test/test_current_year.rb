@@ -1,6 +1,6 @@
 require 'minitest_helper'
 
-class TestMosfet < Minitest::Spec
+class TestMosfetCurrentYear < Minitest::Spec
   before do
     Timecop.freeze DateTime.new(2001, 2, 2, 0, 0, 0)
   end
