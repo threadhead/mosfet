@@ -25,8 +25,9 @@ Or install it yourself as:
 
 ## Usage
 
+```Ruby
 Mosfet::TimeDisplay.new(DateTime.new(2002, 2, 2, 0, 0, 0)).to_s #=> 'Sat, February 2, 2002, 12am'
-
+```
 ## MOSFET?
 
 I name all my gems after electronics components. A MOSFET (metal oxide semiconductor field-efect transistor) is a very common type of transisistor, especially audio amplifiers. You probably have a device or two sitting on your desk that has some.
