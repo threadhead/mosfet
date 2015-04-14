@@ -1,4 +1,4 @@
-# Mosfet
+# Mosfet [![Build Status](https://travis-ci.org/threadhead/mosfet.svg?branch=master)](https://travis-ci.org/threadhead/mosfet)
 
 A ruby class you can use to display datetime values and datetime ranges just like Google Calendar does. For example:
 
