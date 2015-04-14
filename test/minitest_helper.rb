@@ -3,3 +3,4 @@ require 'mosfet'
 require 'timecop'
 
 require 'minitest/autorun'
+require 'minitest/pride'
