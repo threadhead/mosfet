@@ -54,7 +54,7 @@ module Mosfet
     end
 
     def year_format(t)
-      t.year == Time.zone.now.year ? '' : '%Y, '
+      t.year == Time.now.year ? '' : '%Y, '
     end
 
     def weekday_format
